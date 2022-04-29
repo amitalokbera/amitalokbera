@@ -21,7 +21,7 @@
 <p align="left"> 
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank"> <img src="https://avatars1.githubusercontent.com/u/16848261?s=280&v=4" alt="scikit_learn" width="40" height="40"/> </a>
+<a href="https://scikit-learn.org/" target="_blank"> <img src="https://e7.pngegg.com/pngimages/905/45/png-clipart-scikit-learn-python-scikit-logo-brand-learning-text-computer-thumbnail.png" alt="scikit_learn" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/> </a>
 <a href="https://www.selenium.dev/" target="_blank"> <img src="https://github.com/detain/svg-logos/blob/master/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/> </a>
 <a href="https://www.sqlite.org/index.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/> </a>
