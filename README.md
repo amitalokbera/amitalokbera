@@ -10,7 +10,7 @@
 
 
 
-- 🔭 At that moment I am doing MSc in Big Data Analutics
+- 🔭 At that moment I am doing MSc in Big Data Analytics
 - 🌱 I’m currently learning about Reinforcement Learning
 - 👯 open source contributor
 - 💬 Ask me about **Python** | **Machine Learning** | **Deep Learning** | **CPU/GPU** 
