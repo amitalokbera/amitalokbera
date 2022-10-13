@@ -10,7 +10,7 @@
 
 
 
-- 🔭 At that moment I am looking for Full Time opportunities 
+- 🔭 Working as Data Analyst @ Elucidata
 - 🌱 I’m currently learning about Reinforcement Learning
 - 👯 Newbie to open source contributor
 - 💬 Ask me about **Python** | **Machine Learning** | **Deep Learning** | **CPU/GPU**  | **Gaming**
