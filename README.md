@@ -10,12 +10,11 @@
 
 
 
-- 🔭 Working as Software Engineer @ Elucidata
+- 🔭 Working as Full Stack Engineer @ Tensorpix
 - 🌱 I’m currently building <a href="https://tnsr.ai/" target="_blank">tnsr.ai</a>
 - 👯 Newbie to open source contributor
 - 💬 Ask me about **Python** | **Machine Learning** | **Deep Learning** | **CPU/GPU**  | **Gaming**
 - 📫 How to reach me: amitalokbera@gmail.com
-- 🏆 Occasionally participate in Kaggle competition
 
 
 <h3 align="left">Languages and Tools:</h3>
