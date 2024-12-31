@@ -25,7 +25,6 @@
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-thumb.png" alt="scikit_learn" width="60" height="40"/> </a>
    <a href="https://scipy.org/" target="_blank"> <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/scipy.svg" alt="Scipy" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/> </a>
-<a href="https://www.selenium.dev/" target="_blank"> <img src="https://github.com/detain/svg-logos/blob/master/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/> </a>
 <a href="https://www.sqlite.org/index.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/> </a>
  <a href="https://www.scala-lang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" alt="Scala" width="40" height="40"/> </a>
    <a href="https://kubernetes.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="K8S" width="40" height="40"/> </a>
