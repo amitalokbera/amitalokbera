@@ -18,22 +18,71 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
- <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-<a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank"> <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-thumb.png" alt="scikit_learn" width="60" height="40"/> </a>
-   <a href="https://scipy.org/" target="_blank"> <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/scipy.svg" alt="Scipy" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/> </a>
-<a href="https://www.sqlite.org/index.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/> </a>
- <a href="https://www.scala-lang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" alt="Scala" width="40" height="40"/> </a>
-   <a href="https://kubernetes.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="K8S" width="40" height="40"/> </a>
+<a href="https://www.java.com/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40" />
+</a>
+<a href="https://www.python.org/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40" height="40" />
+</a>
+<a href="https://nextjs.org/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js" width="40" height="40" />
+</a>
+<a href="https://react.dev/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40" />
+</a>
+<a href="https://www.djangoproject.com/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" width="40" height="40" />
+</a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fastapi.svg" alt="FastAPI" width="40" height="40" />
+</a>
+<a href="https://jestjs.io/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40" />
+</a>
+<a href="https://www.cypress.io/" target="_blank"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-plain.svg" alt="Cypress" width="40" height="40" />
+</a>
+<a href="https://selenium.dev/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/selenium.svg" alt="Selenium" width="40" height="40" />
+</a>
+<a href="https://redis.io/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="40" height="40" />
+</a>
+<a href="https://www.postgresql.org/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40" />
+</a>
+<a href="https://www.mongodb.com/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40" />
+</a>
+<a href="https://opentelemetry.io/" target="_blank"> 
+  <img src="https://github.com/cncf/artwork/blob/main/projects/opentelemetry/icon/black/opentelemetry-icon-black.svg" alt="OpenTelemetry" width="40" height="40" />
+</a>
+<a href="https://grafana.com/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40" />
+</a>
+<a href="https://docs.celeryproject.org/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/celery.svg" alt="Celery" width="40" height="40" />
+</a>
+<a href="https://tailwindcss.com/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
+</a>
+
+
    
   
 <p align="left"> 
-<a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://archlinux.org/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="Arch Linux" width="40" height="40" />
+</a>
+<a href="https://hyprland.org/" target="_blank"> 
+  <img src="https://wiki.hyprland.org/favicon.svg" alt="Hyprland" width="40" height="40" />
+</a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/> </a> 
 <a href="https://www.vim.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="vim" width="40" height="40"/> </a> 
-   <a href="https://jupyter.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" width="40" height="40"/> </a>
+<a href="https://jupyter.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" width="40" height="40"/> </a>
    
 
 
