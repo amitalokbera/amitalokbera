@@ -10,7 +10,7 @@
 
 
 
-- 🔭 Working as Full Stack Engineer @ Tensorpix
+- 🔭 Looking for a full-time role as a Full Stack Engineer
 - 🌱 I’m currently building <a href="https://tnsr.ai/" target="_blank">tnsr.ai</a>
 - 👯 Newbie to open source contributor
 - 📫 How to reach me: amitalokbera@gmail.com
